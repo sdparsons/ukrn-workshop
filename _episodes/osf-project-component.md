@@ -58,7 +58,7 @@ You're now all set up with an OSF project which has a special component ready to
 
 > ## citing the repository
 > Now that you have created a repository, copy the citation into the chat.
->
+> [citing data](https://datacite.org/cite-your-data.html)
 {: .challenge}
 
 > ## DOIs and data citations
