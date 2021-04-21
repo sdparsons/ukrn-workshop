@@ -1,8 +1,8 @@
 ---
 title: Outlining your existing processes
 teaching: 5
-exercises: 15
-duration: null
+exercises: 20
+duration: 5
 summary: In this section we will outline your current processes towards data
   curation and sharing using the checklist below
 questions: null
