@@ -33,6 +33,13 @@ let's say hi and why we're here
 > - etc
 {: .checklist}
 
+## FAIR data
+[FAIR principles](https://www.go-fair.org/fair-principles/)
+- Findable
+- Accessible
+- Interoperable
+- Reusable
+'Open' may not be enough to make the most use of 
 
 
 > ## `{: .challenge}` Tag
