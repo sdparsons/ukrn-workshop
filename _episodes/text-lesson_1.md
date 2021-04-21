@@ -25,6 +25,13 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 let's say hi and why we're here
 
+> ## What's your current data sharing experience?
+> - I've used other's data
+> - I've shared data
+> - I would like to share data but dont know where to start
+> - I'm not sure if I can share my data
+> - etc
+{: .checklist}
 
 
 
