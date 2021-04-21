@@ -10,17 +10,17 @@ keypoints:
   - Make a note of the data component's id - we'll need that later!
 day: 2
 order: 100000
-missingDependencies:
-  - /fig/osf-new-project-form.jpg
-  - /fig/osf-go-to-new-project.jpg
-  - /fig/osf-new-component-form.jpg
-  - /fig/osf-project-license.jpg
-  - /fig/osf-make-public.jpg
-  - /fig/osf-component-id.jpg
+missingDependencies: []
 dependencies:
   - /fig/osf-new-project.jpg
   - /fig/osf-new-component.jpg
   - /fig/osf-doi.jpg
+  - /fig/osf-go-to-new-project.jpg
+  - /fig/osf-new-component-form.jpg
+  - /fig/osf-new-project-form.jpg
+  - /fig/osf-make-public.jpg
+  - /fig/osf-component-id.jpg
+  - /fig/osf-project-license.jpg
 originalRepository: mjaquiery/jspsych-born-open-data
 summary: We'll create a project and a data component on the OSF where we'll
   upload our data.
