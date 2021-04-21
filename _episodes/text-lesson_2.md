@@ -6,7 +6,9 @@ duration: 5
 summary: In this section we will outline your current processes towards data
   curation and sharing using the checklist below
 questions: null
-objectives: null
+objectives:
+  - The key objective here is to identify what you need to understand to
+    implement workflow changes to facilitate data sharing
 keypoints: null
 is-break: null
 ukrn_wb_rules:
