@@ -35,14 +35,14 @@ In this part of the workshop we will check out your experiences, and what your c
 
 > ## With a specific project in mind,  What's included in your process? what do you already have sorted? (note, to be ordered)
 We will use this to guide the next sections of the workshop towards your specific projects. It will also be useful to reflect on when in your process you usually think about these things. 
-- > repository
-- > sharing summary data
-- > sharing processed data
-- > sharing raw data
-- > licensing the data
-- > building a data dictionary or codebook
-- > sharing other materials, e.g. code, alongside the data
-- > privacy, anonymity, and GDPR
+> - repository
+> - sharing summary data
+> - sharing processed data
+> - sharing raw data
+> - licensing the data
+> - building a data dictionary or codebook
+> - sharing other materials, e.g. code, alongside the data
+> - privacy, anonymity, and GDPR
 {: .checklist}
 
 # Looking forward
