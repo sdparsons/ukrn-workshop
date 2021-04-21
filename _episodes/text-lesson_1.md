@@ -1,5 +1,5 @@
 ---
-title: "dsgf"
+title: dsgf
 teaching: null
 exercises: null
 duration: null
@@ -12,7 +12,7 @@ is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 400000
+order: 75000
 missingDependencies: []
 dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
