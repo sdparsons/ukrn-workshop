@@ -60,5 +60,5 @@ You're now all set up with an OSF project which has a special component ready to
 > You can create a DOI for your data to make it easy to cite.
 > This is as simple as clicking the 'Create DOI' button and then confirming your choice.
 > ![OSF create DOI screenshot]({% include installedFile.lqd path='/fig/osf-doi.jpg' %})
-{: .solution}
+{: .challenge}
 
