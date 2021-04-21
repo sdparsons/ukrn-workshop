@@ -8,8 +8,8 @@ objectives:
 keypoints:
   - We use the _test_ subdomain of the OSF because we're testing things
   - Make a note of the data component's id - we'll need that later!
-day: 2
-order: 100000
+day: 1
+order: 400000
 missingDependencies: []
 dependencies:
   - /fig/osf-new-project.jpg
