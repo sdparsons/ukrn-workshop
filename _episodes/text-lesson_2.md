@@ -28,7 +28,12 @@ In this part of the workshop we will check out your experiences, and what your c
 > etc
 {: .checklist}
 
-> ## With a specific project,  What's included in your process? what do you already have sorted? (note, to be ordered)
+> ## Group discussion
+> In small groups, discuss potential barriers to sharing data
+> We'll come back to this in the full group and work through some worries and misconceptions, and how we can navigate these
+{: .discussion}
+
+> ## With a specific project in mind,  What's included in your process? what do you already have sorted? (note, to be ordered)
 We will use this to guide the next sections of the workshop towards your specific projects. It will also be useful to reflect on when in your process you usually think about these things. 
 > repository
 > sharing summary data
@@ -40,8 +45,5 @@ We will use this to guide the next sections of the workshop towards your specifi
 > privacy, anonymity, and GDPR
 {: .checklist}
 
-> ## Group discussion
-> In small groups, discuss potential barriers to sharing data
-> We'll come back to this in the full group and work through some worries and misconceptions, and how we can navigate these
-{: .discussion}
+
 
