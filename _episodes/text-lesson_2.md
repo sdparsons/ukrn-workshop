@@ -22,15 +22,12 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 In this part of the workshop we will check out your experiences, and what your current process looks like with respect to data sharing
 
 
-> ## What's your current data sharing experience?
-> I've used other's data
-> I've shared data
-> etc
-{: .checklist}
-
 > ## Group discussion
 > In small groups, discuss potential barriers to sharing data
-> We'll come back to this in the full group and work through some worries and misconceptions, and how we can navigate these
+> 
+> We'll come back to this in the full group and work through some worries and misconceptions, and how we can navigate these.
+> 
+> 
 {: .discussion}
 
 > ## With a specific project in mind,  What's included in your process? what do you already have sorted? (note, to be ordered)
