@@ -10,9 +10,7 @@ instructor_emails:
 helpers: []
 start_times:
   - 09|00
-setup_files:
-  - git
-  - shell
+setup_files: []
 language: en
 venue: null
 address: null
