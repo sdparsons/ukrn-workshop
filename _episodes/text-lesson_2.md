@@ -19,7 +19,7 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
 # Welcome
-In this session we will 
+In this part of the workshop we will check out your experiences, and what your current process looks like with respect to data sharing
 
 
 > ## What's your current data sharing experience?
@@ -29,7 +29,7 @@ In this session we will
 {: .checklist}
 
 > ## With a specific project,  What's included in your process? what do you already have sorted? (note, to be ordered)
-We will use this to guide the next sections of the workshop towards your specific projects
+We will use this to guide the next sections of the workshop towards your specific projects. It will also be useful to reflect on when in your process you usually think about these things. 
 > repository
 > sharing summary data
 > sharing processed data
