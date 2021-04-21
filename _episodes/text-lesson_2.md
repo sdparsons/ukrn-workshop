@@ -45,5 +45,7 @@ We will use this to guide the next sections of the workshop towards your specifi
 > privacy, anonymity, and GDPR
 {: .checklist}
 
+# Looking forward
+In the next part of the workshop we will dicsuss several of these areas, depending on your needs for the project you are working on. 
 
 
