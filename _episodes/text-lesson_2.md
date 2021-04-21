@@ -38,7 +38,6 @@ We will use this to guide the next sections of the workshop towards your specifi
 > building a data dictionary or codebook
 > sharing other materials, e.g. code, alongside the data
 > privacy, anonymity, and GDPR
-
 {: .checklist}
 
 > ## Group discussion
