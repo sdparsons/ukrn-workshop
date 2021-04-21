@@ -18,6 +18,10 @@ dependencies: []
 originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 
 ---
+# Welcome
+In this session we will 
+
+
 > ## What's your current data sharing experience?
 > I've used other's data
 > I've shared data
@@ -30,6 +34,6 @@ originalRepository: UKRN-Open-Research/ukrn-wb-lesson-templates
 {: .checklist}
 
 > ## `{: .discussion}` Tag
-> This is a `{: .discussion}` tag block.
-> This tag is usually used to present a question for participants to discuss.
+> In small 
+> 
 {: .discussion}
