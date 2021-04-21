@@ -1,5 +1,5 @@
 ---
-title: Building an implementation plan
+title: Building your implementation plan
 teaching: 5
 exercises: 15
 questions: []
