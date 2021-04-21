@@ -56,9 +56,16 @@ You can find the id in the browser's address bar; it's the part that's highlight
 
 You're now all set up with an OSF project which has a special component ready to hold all the raw data.
 
+> ## citing the repository
+> Now that you have created a repository, copy the citation into the chat.
+>
+{: .challenge}
+
 > ## DOIs and data citations
-> You can create a DOI for your data to make it easy to cite.
+> You can create a DOI for your data to make it easy to cite. We wont do this now. 
 > This is as simple as clicking the 'Create DOI' button and then confirming your choice.
 > ![OSF create DOI screenshot]({% include installedFile.lqd path='/fig/osf-doi.jpg' %})
 {: .challenge}
+
+
 
